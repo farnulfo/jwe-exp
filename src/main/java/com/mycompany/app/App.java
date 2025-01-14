@@ -101,6 +101,6 @@ public class App
         System.out.println(jwt.getJWTClaimsSet().getIssueTime());
         System.out.println(jwt.getJWTClaimsSet().getJWTID());
 
-        System.out.println("End");
+        System.out.println("End of the world");
     }
 }
