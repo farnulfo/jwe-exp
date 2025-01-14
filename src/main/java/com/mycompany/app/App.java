@@ -100,5 +100,7 @@ public class App
         System.out.println(jwt.getJWTClaimsSet().getNotBeforeTime());
         System.out.println(jwt.getJWTClaimsSet().getIssueTime());
         System.out.println(jwt.getJWTClaimsSet().getJWTID());
+
+        System.out.println("End");
     }
 }
